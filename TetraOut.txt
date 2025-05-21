@@ -1,0 +1,24 @@
+Output of tetraExponential(15): 1490
+
+Output of tetraExponential(25): 1055026
+
+Output of tetraExponential(35): 747044834
+
+Output of tetraLinear(35): [104308960, 201061985, 387559437, 747044834]
+
+Output of tetraLinear(200): [-1091019392, -1811445473, 1935544817, 1825417856]
+
+Output of tetraTailLinear(45): 687962530
+
+Output of tetraTailLinear(200): 1825417856
+
+Output of tetraExponential(10): 56
+
+Output of tetraLinear(10): [8, 15, 29, 56]
+
+Output of tetraTailLinear(10): 56
+
+Output of tetraExponential(30): 28074040
+
+Output of tetraLinear(30): [3919944, 7555935, 14564533, 28074040]
+

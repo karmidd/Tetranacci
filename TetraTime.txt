@@ -1,0 +1,24 @@
+Time for tetraExponential(15): 4ms
+
+Time for tetraExponential(25): 12ms
+
+Time for tetraExponential(35): 5448ms
+
+Time for tetraLinear(35): 1ms
+
+Time for tetraLinear(200): 1ms
+
+Time for tetraTailLinear(45): 3ms
+
+Time for tetraTailLinear(200): 3ms
+
+Time for tetraExponential(10): 4ms
+
+Time for tetraLinear(10): 1ms
+
+Time for tetraTailLinear(10): 3ms
+
+Time for tetraExponential(30): 204ms
+
+Time for tetraLinear(30): 0ms
+
